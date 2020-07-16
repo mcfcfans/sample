@@ -1,0 +1,71 @@
+body{
+	margin: 3%;
+	width: 94%;
+	background: grey;
+	display: block;
+	font-size: 150%;
+}
+header {
+	width: 90%
+	font-size: 100%;
+	background: blue;
+	display: block;
+	text-align: center;
+	margin-bottom: 2%;
+	padding-bottom: 1%;
+
+}
+a{
+	background: gold;
+	opacity: 80%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-right: 2%;
+}
+div{
+	width: 25%;
+	background: #00ffff;
+	display: inline-block;
+	text-align: center;
+	margin-bottom: 2%;
+	margin-right: 2%;
+	border: inset;
+	float: left;
+}
+aside{
+	display: inline-block;
+	text-align: center;
+	margin-bottom: 2%;
+	border: inset;
+	background: #00ffff;
+	padding-top: 4%;
+	padding-bottom: 4%;
+	padding-right: 1%;
+	padding-left: 1%;
+}
+section{
+	width: 25%;
+	background: #00ffff;
+	display: inline-block;
+	text-align: center;
+	margin-bottom: 2%;
+	margin-right: 2%;
+	border: inset;
+	float: right;
+}
+footer {
+	color: yellow;
+	width: 90%;
+	background: black;
+	display: block;
+	text-align: center;
+	padding: 1%;
+	clear: both;
+
+}
+
+h1 {
+	color: yellow;
+	font-variant: small-caps;
+	font-size: 150%;
+}
